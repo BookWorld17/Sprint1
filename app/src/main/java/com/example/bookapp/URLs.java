@@ -3,7 +3,7 @@ package com.example.bookapp;
 
 public  class URLs {
 
-    public static final String SERVER = "http://192.168.1.14/2022/book_world/apis/";
+    public static final String SERVER = "http://192.168.1.109/book/book_world/apis/";
     public static final String login = SERVER + "login.php";
     public static final String signup = SERVER + "singup.php";
     public static final String ADD_BOOK = SERVER + "addBook.php";
